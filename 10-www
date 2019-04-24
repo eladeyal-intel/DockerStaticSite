@@ -1,0 +1,2 @@
+echo updating the index page
+echo $WEBPAGECONTENT > /usr/share/nginx/html/index.html
